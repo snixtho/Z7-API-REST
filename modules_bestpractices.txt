@@ -1,0 +1,4 @@
+- Always use selectdb whenever you need to use the database.
+- Don't write all logic in the module file itself, clean it up and seperate it into libraries if possible.
+- Try using the events system as much as possible.
+- All modules should start with a declare(strict_types=1); statement.

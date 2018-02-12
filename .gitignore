@@ -1,0 +1,4 @@
+*.sublime-workspace
+*.sublime-project
+install_lock
+config_cache.php
